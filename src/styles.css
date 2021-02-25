@@ -1,0 +1,42 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.wrapper {
+  padding: 5px 20px;
+}
+
+.wrapper fieldset {
+  margin: 20px 0;
+}
+
+.container {
+  box-sizing: content-box;
+  width: 100%;
+  border: solid #5b6dcd 1px;
+  padding: 5px;
+}
+
+label {
+  max-width: 100%;
+  padding: 12px 20px;
+  box-sizing: border-box;
+}
+
+label p {
+  margin-bottom: 0px;
+}
+
+button {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
